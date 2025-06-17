@@ -1,0 +1,5 @@
+# Archivos de captura de red
+*.pcap
+
+# Archivos de registro
+*.log
